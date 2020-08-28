@@ -33,7 +33,7 @@ This means we may:
 This Code of Conduct applies both within project spaces and in public spaces when an
 individual is representing the project or its community.
 
-Instances of unacceptable behavior may be reported privately to the project maintainers.
+Instances of unacceptable behavior may be reported privately to the project maintainers at go@scailable.net
 
 #### See Also
 
