@@ -3,26 +3,20 @@
 #### Guidelines
 
 * Please be respectful to one another.
-* Many contributors are volunteering their time.  We might not get to your
-issue right away.  Be patient.
-* Other contributors have different backgrounds and perspectives than you do.
-Diversity is a community strength.
-* We will disagree sometimes.  That's ok.  When this happens, assume that the
-person with whom you disagree is a smart person with good reasons for believing
-something different.
-* Everyone has bad days.  If you find yourself about to be mean to someone,
-take a break and cool off.  This project will still be here later.
-* When you make a mistake, apologize.
-
+* We might not get to your issue right away. Be patient.
+* Ensure that your language and actions are free of personal attacks and disparaging personal remarks.
+* When interpreting the words and actions of others, participants should assume good intentions.
+* Behaviour which can be reasonably considered harassment will not be tolerated.
 
 #### We will not tolerate
 
-* Sexualized language or imagery
 * Hate speech
 * Personal attacks
+* Sexualized language or imagery
 * Trolling
 * Insulting comments
 * Derogatory comments
+* Slandering another's professional abilities 
 * Public or private harassment
 * Publishing other's private information
 * Plagiarism
