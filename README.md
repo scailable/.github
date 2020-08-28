@@ -1,1 +1,1 @@
-# Guidelines for contributing to Scailable repositories and issue cues.
+# Guidelines for contributing to Scailable repositories and issue queue.
